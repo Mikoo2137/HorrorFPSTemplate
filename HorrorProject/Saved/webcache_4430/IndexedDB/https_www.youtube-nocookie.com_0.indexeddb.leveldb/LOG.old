@@ -1,0 +1,8 @@
+2024/05/22-17:07:34.135 2ce0 Reusing MANIFEST C:/Users/PC COMPUTER/Documents/Unreal Projects/HorrorProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/22-17:07:34.136 2ce0 Recovering log #4
+2024/05/22-17:07:34.136 2ce0 Reusing old log C:/Users/PC COMPUTER/Documents/Unreal Projects/HorrorProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/22-17:09:28.336 46fc Level-0 table #8: started
+2024/05/22-17:09:28.336 46fc Level-0 table #8: 0 bytes OK
+2024/05/22-17:09:28.337 46fc Delete type=0 #4
+2024/05/22-17:09:28.338 46fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/22-17:09:28.338 46fc Manual compaction at level-1 from (begin) .. (end); will stop at (end)
